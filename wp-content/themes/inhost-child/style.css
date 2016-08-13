@@ -1,0 +1,21 @@
+/*
+Theme Name: inHost Child
+Theme URI: http://inwavethemes.com/wordpress/inhost
+Author: inwavethemes
+Author URI: http://inwavethemes.com
+Template: inhost
+Description: Description
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: inwavethemes
+Tags: black, dark, light, fluid-layout, responsive-layout, post-formats, theme-options, flexible-header, custom-header, custom-background, custom-colors, left-sidebar, right-sidebar
+
+This theme, like WordPress, is licensed under the GPL.
+inHost is based on Underscores http://underscores.me/, (C) 2012-2014 Automattic, Inc.
+*/
+
+@import url("../inhost/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */

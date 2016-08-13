@@ -1,0 +1,7 @@
+# inHost Theme Configuration File
+
+name: "inHost Theme"
+description: "The inHost Theme version for WHMCS Version 6.x (based on Six Template). A wordpress bridge plugin is required"
+author: "inwavethemes"
+properties:
+  serverSidePagination: false # Defines client side will handle pagination
